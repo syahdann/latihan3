@@ -14,6 +14,7 @@ jika jari jarinya sudah ada lalu input kan rumusnya
 ![phi](https://user-images.githubusercontent.com/115516758/197760207-2b53c2aa-c84a-4b51-847e-3d6fcc5d3851.PNG)
 
 5. untuk menentukan keliling gunakan rumus 2*phi*jari-jari
+
 ![keling](https://user-images.githubusercontent.com/115516758/197760274-c3c297e2-39f5-4fa6-bc7f-62399521a2c5.PNG)
 
 6. dan untuk menentukan luas gunakan rumus phi*jari-jari*jari-jari
